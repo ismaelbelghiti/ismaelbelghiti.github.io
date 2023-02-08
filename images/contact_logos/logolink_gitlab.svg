@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>logolink_gitlab</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-411.000000, -59.000000)" fill="#112E48">
+            <g id="logolink_gitlab" transform="translate(411.000000, 59.000000)">
+                <path d="M15.97,9.058 L15.075,6.302 L13.3,0.842 C13.21,0.56 12.812,0.56 12.72,0.842 L10.946,6.3 L5.054,6.3 L3.28,0.842 C3.188,0.56 2.79,0.56 2.7,0.84 L0.924,6.3 L0.03,9.058 C-0.052,9.308 0.038,9.584 0.25,9.74 L8,15.37 L15.75,9.74 C15.962,9.584 16.052,9.31 15.97,9.058" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

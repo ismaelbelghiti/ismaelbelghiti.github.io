@@ -1,0 +1,48 @@
+<svg width="451" height="176" viewBox="0 0 451 176" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="55" y="11" width="145" height="9" rx="2" fill="#D2D5E4"/>
+<rect x="55" y="59" width="97" height="9" rx="2" fill="#D2D5E4"/>
+<rect x="55" y="107" width="129" height="9" rx="2" fill="#D2D5E4"/>
+<rect x="55" y="155" width="145" height="9" rx="2" fill="#D2D5E4"/>
+<rect x="236" y="11" width="63" height="9" rx="2" fill="#D2D5E4"/>
+<rect x="236" y="59" width="43" height="9" rx="2" fill="#D2D5E4"/>
+<rect x="236" y="107" width="31" height="9" rx="2" fill="#D2D5E4"/>
+<rect x="236" y="155" width="63" height="9" rx="2" fill="#D2D5E4"/>
+<rect x="388" y="11" width="63" height="9" rx="2" fill="#D2D5E4"/>
+<rect x="403" y="59" width="48" height="9" rx="2" fill="#D2D5E4"/>
+<rect x="416" y="107" width="35" height="9" fill="#D2D5E4"/>
+<rect x="388" y="155" width="63" height="9" rx="2" fill="#D2D5E4"/>
+<g clip-path="url(#clip0)">
+<rect width="32" height="32" rx="16" fill="#D2D5E4"/>
+<circle cx="16" cy="10" r="5" fill="#FAD3D5"/>
+<rect x="7" y="17" width="18" height="16" rx="2" fill="#A5ABC9"/>
+</g>
+<g clip-path="url(#clip1)">
+<rect y="48" width="32" height="32" rx="16" fill="#D2D5E4"/>
+<circle cx="16" cy="58" r="5" fill="#FAD3D5"/>
+<rect x="7" y="65" width="18" height="16" rx="2" fill="#A5ABC9"/>
+</g>
+<g clip-path="url(#clip2)">
+<rect y="96" width="32" height="32" rx="16" fill="#D2D5E4"/>
+<circle cx="16" cy="106" r="5" fill="#FAD3D5"/>
+<rect x="7" y="113" width="18" height="16" rx="2" fill="#A5ABC9"/>
+</g>
+<g clip-path="url(#clip3)">
+<rect y="144" width="32" height="32" rx="16" fill="#D2D5E4"/>
+<circle cx="16" cy="154" r="5" fill="#FAD3D5"/>
+<rect x="7" y="161" width="18" height="16" rx="2" fill="#A5ABC9"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="32" height="32" rx="16" fill="white"/>
+</clipPath>
+<clipPath id="clip1">
+<rect y="48" width="32" height="32" rx="16" fill="white"/>
+</clipPath>
+<clipPath id="clip2">
+<rect y="96" width="32" height="32" rx="16" fill="white"/>
+</clipPath>
+<clipPath id="clip3">
+<rect y="144" width="32" height="32" rx="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>

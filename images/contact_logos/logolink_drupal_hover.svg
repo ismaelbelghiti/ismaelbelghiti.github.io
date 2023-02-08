@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>logolink_drupal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-288.000000, -59.000000)" fill="#0087D5">
+            <g id="logolink_drupal" transform="translate(288.000000, 59.000000)">
+                <path d="M13.65,2.35 C12.14,0.837 10.134,0 8,0 C3.593,0 0,3.593 0,8 C0,12.407 3.593,16 8,16 C12.407,16 16,12.407 16,8 C16,5.867 15.162,3.86 13.65,2.35 L13.65,2.35 Z M8,13.192 C5.587,13.192 3.62,11.224 3.62,8.812 C3.62,6.767 4.99,5.396 6.197,4.189 C6.997,3.389 7.772,2.615 8,1.752 C8.23,2.615 8.99,3.389 9.803,4.189 C11.01,5.396 12.381,6.767 12.381,8.812 C12.381,11.224 10.414,13.192 8.001,13.192 L8,13.192 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

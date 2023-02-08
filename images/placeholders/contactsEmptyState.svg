@@ -1,0 +1,73 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="50" fill="#E2EBFF" />
+  <rect x="8.60097" y="26.4702" width="48" height="26" transform="rotate(-7.43562 8.60097 26.4702)" fill="white" />
+  <rect x="12.4379" y="24.9609" width="48" height="23" transform="rotate(-7.43562 12.4379 24.9609)" stroke="#4864C9"
+    stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="25.3295" cy="34.876" r="7.5" transform="rotate(-7.43562 25.3295 34.876)" fill="#4864C9" />
+  <circle cx="24.9869" cy="32.2515" r="2.20588" transform="rotate(-7.43562 24.9869 32.2515)" fill="white" />
+  <path
+    d="M29.1127 38.0498C27.0649 40.05 24.3253 39.606 22.6219 38.8748C22.1391 38.6676 21.9728 38.0837 22.259 37.643C24.4879 34.2112 27.4056 35.4009 29.07 36.8424C29.4353 37.1588 29.4584 37.7121 29.1127 38.0498Z"
+    fill="white" />
+  <path d="M36.5815 28.3652L54.9259 25.9711" stroke="#4864C9" stroke-width="1.5" stroke-linecap="round"
+    stroke-linejoin="round" />
+  <path d="M37.1638 32.8271L53.5251 30.6918" stroke="#4864C9" stroke-width="1.5" stroke-linecap="round"
+    stroke-linejoin="round" />
+  <rect x="37.1857" y="36.8584" width="8" height="3" rx="1" transform="rotate(-7.43562 37.1857 36.8584)"
+    fill="#4864C9" />
+  <rect x="47.1016" y="35.564" width="5" height="3" rx="1" transform="rotate(-7.43562 47.1016 35.564)" fill="#4864C9" />
+  <rect x="62.9707" y="48.2012" width="48.6318" height="26.3422" transform="rotate(8.27712 62.9707 48.2012)"
+    fill="white" />
+  <rect x="67.127" y="47.7822" width="48.6318" height="23.3027" transform="rotate(8.27712 67.127 47.7822)"
+    stroke="#4864C9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="76.9797" cy="60.9895" r="7.59871" transform="rotate(8.27712 76.9797 60.9895)" fill="#4864C9" />
+  <circle cx="77.3658" cy="58.3356" r="2.23492" transform="rotate(8.27712 77.3658 58.3356)" fill="white" />
+  <path
+    d="M79.8082 65.1178C77.2534 66.5182 74.6931 65.3236 73.2321 64.1391C72.824 63.8082 72.8224 63.2011 73.2168 62.8538C76.3415 60.1021 78.8675 62.076 80.0942 63.943C80.3596 64.3469 80.232 64.8855 79.8082 65.1178Z"
+    fill="white" />
+  <path d="M89.7402 57.7266L108.288 60.4249" stroke="#4864C9" stroke-width="1.5" stroke-linecap="round"
+    stroke-linejoin="round" />
+  <path d="M89.0839 62.2383L105.627 64.6449" stroke="#4864C9" stroke-width="1.5" stroke-linecap="round"
+    stroke-linejoin="round" />
+  <rect x="87.9991" y="66.1758" width="8.10529" height="3.03948" rx="1" transform="rotate(8.27712 87.9991 66.1758)"
+    fill="#4864C9" />
+  <rect x="98.0253" y="67.6348" width="5.06581" height="3.03948" rx="1" transform="rotate(8.27712 98.0253 67.6348)"
+    fill="#4864C9" />
+  <rect x="9.19984" y="76.1406" width="37.073" height="20.0812" transform="rotate(-15 9.19984 76.1406)" fill="white" />
+  <rect x="11.9842" y="74.5947" width="37.073" height="17.7641" transform="rotate(-15 11.9842 74.5947)" stroke="#4864C9"
+    stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="22.8624" cy="80.8753" r="5.79266" transform="rotate(-15 22.8624 80.8753)" fill="#4864C9" />
+  <circle cx="22.3334" cy="78.9005" r="1.70372" transform="rotate(-15 22.3334 78.9005)" fill="white" />
+  <path
+    d="M25.9616 83.0669C24.6625 84.5771 22.7388 84.5905 21.402 84.2661C20.8913 84.1422 20.6459 83.5805 20.8884 83.1144C22.207 80.5797 24.3677 81.0466 25.7657 81.8989C26.1784 82.1505 26.2768 82.7006 25.9616 83.0669Z"
+    fill="white" />
+  <path d="M30.8153 74.7466L44.617 71.0484" stroke="#4864C9" stroke-width="1.5" stroke-linecap="round"
+    stroke-linejoin="round" />
+  <path d="M31.7148 78.1035L44.0244 74.8052" stroke="#4864C9" stroke-width="1.5" stroke-linecap="round"
+    stroke-linejoin="round" />
+  <rect x="32.1414" y="81.188" width="6.17883" height="2.31706" rx="1" transform="rotate(-15 32.1414 81.188)"
+    fill="#4864C9" />
+  <rect x="39.6019" y="79.189" width="3.86177" height="2.31706" rx="1" transform="rotate(-15 39.6019 79.189)"
+    fill="#4864C9" />
+  <rect x="65.5229" y="85.6489" width="32.2618" height="17.4751" transform="rotate(15 65.5229 85.6489)" fill="white" />
+  <rect x="68.2937" y="85.6958" width="32.2618" height="15.4588" transform="rotate(15 68.2937 85.6958)" stroke="#4864C9"
+    stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="73.7592" cy="95.1621" r="5.0409" transform="rotate(15 73.7592 95.1621)" fill="#4864C9" />
+  <circle cx="74.2196" cy="93.4438" r="1.48262" transform="rotate(15 74.2196 93.4438)" fill="white" />
+  <path
+    d="M75.0378 98.1971C73.498 98.6835 72.1274 97.9446 71.2715 97.1649C70.8831 96.811 70.9488 96.1995 71.3987 95.928C73.3875 94.7279 74.7584 95.9033 75.4487 97.1024C75.6898 97.5213 75.4987 98.0515 75.0378 98.1971Z"
+    fill="white" />
+  <path d="M82.4196 94.0034L94.4301 97.2216" stroke="#4864C9" stroke-width="1.5" stroke-linecap="round"
+    stroke-linejoin="round" />
+  <path d="M81.6368 96.9253L92.3489 99.7956" stroke="#4864C9" stroke-width="1.5" stroke-linecap="round"
+    stroke-linejoin="round" />
+  <rect x="80.6162" y="99.4351" width="5.37696" height="2.01636" rx="1" transform="rotate(15 80.6162 99.4351)"
+    fill="#4864C9" />
+  <rect x="87.1085" y="101.175" width="3.3606" height="2.01636" rx="1" transform="rotate(15 87.1085 101.175)"
+    fill="#4864C9" />
+  <path
+    d="M84.8388 31.7533C85.5872 30.9298 86.0448 29.8271 86.0448 28.6154C86.0448 26.0664 84.0201 24 81.5224 24C79.0247 24 77 26.0664 77 28.6154C77 31.1644 79.0247 33.2308 81.5224 33.2308C82.8327 33.2308 84.0129 32.662 84.8388 31.7533ZM84.8388 31.7533L89 36"
+    stroke="#4864C9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <path
+    d="M39.8388 105.753C40.5872 104.93 41.0448 103.827 41.0448 102.615C41.0448 100.066 39.0201 98 36.5224 98C34.0247 98 32 100.066 32 102.615C32 105.164 34.0247 107.231 36.5224 107.231C37.8327 107.231 39.0129 106.662 39.8388 105.753ZM39.8388 105.753L44 110"
+    stroke="#4864C9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

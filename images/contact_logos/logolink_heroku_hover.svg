@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>logolink_heroku</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-484.000000, -59.000000)" fill="#0087D5">
+            <g id="logolink_heroku" transform="translate(484.000000, 59.000000)">
+                <path d="M13.74,0 L2.26,0 C1.46,0 0.82,0.64 0.82,1.44 L0.82,14.56 C0.82,15.36 1.46,16 2.26,16 L13.74,16 C14.54,16 15.18,15.36 15.18,14.56 L15.18,1.44 C15.18,0.64 14.54,0 13.74,0 L13.74,0 Z M14.38,14.56 C14.38,14.92 14.1,15.2 13.74,15.2 L2.26,15.2 C1.9,15.2 1.62,14.92 1.62,14.56 L1.62,1.44 C1.62,1.08 1.9,0.8 2.26,0.8 L13.74,0.8 C14.1,0.8 14.38,1.08 14.38,1.44 L14.38,14.56 L14.38,14.56 Z M4.42,13.6 L6.22,12 L4.42,10.4 L4.42,13.6 L4.42,13.6 Z M10.9,7.12 C10.58,6.8 9.98,6.4 8.98,6.4 C7.9,6.4 6.78,6.68 5.98,6.96 L5.98,2.4 L4.38,2.4 L4.38,9.32 L5.5,8.8 C5.5,8.8 7.34,7.96 8.94,7.96 C9.74,7.96 9.94,8.4 9.94,8.8 L9.94,13.6 L11.54,13.6 L11.54,8.8 C11.58,8.68 11.58,7.8 10.9,7.12 L10.9,7.12 Z M8.78,5 L10.38,5 C11.1,4.16 11.46,3.32 11.58,2.4 L9.98,2.4 C9.82,3.32 9.42,4.16 8.78,5 L8.78,5 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

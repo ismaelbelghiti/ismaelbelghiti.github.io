@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>logolink_speakerDeck</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-755.000000, -61.000000)" fill="#0087D5">
+            <g id="logolink_speakerDeck" transform="translate(755.000000, 61.000000)">
+                <path d="M1.067,12 C0.477,12 0,11.525 0,10.94 L0,1.06 C0,0.475 0.478,0 1.067,0 L14.933,0 C15.521,0 15.998,0.475 15.998,1.06 L16,1.06 L16,10.94 C16,11.525 15.522,12 14.933,12 L1.067,12 L1.067,12 Z M11.024,8.12 L4.978,8.12 C4.591,8.113 4.278,7.8 4.278,7.413 L4.273,7.413 L4.273,4.587 L4.279,4.587 C4.279,4.201 4.589,3.887 4.977,3.881 L11.023,3.881 C11.41,3.888 11.723,4.201 11.723,4.588 L11.726,4.588 L11.726,7.414 L11.722,7.414 C11.722,7.8 11.41,8.114 11.022,8.12 L11.024,8.12 Z M7.48,4.934 L5.7,6.008 L7.466,7.065 L7.479,4.935 L7.48,4.934 Z M8.52,7.064 L10.3,5.991 L8.532,4.934 L8.522,7.064 L8.52,7.064 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

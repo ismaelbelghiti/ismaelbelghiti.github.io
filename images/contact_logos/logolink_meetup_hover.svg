@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>logolink_meetup</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-657.000000, -61.000000)" fill="#0087D5">
+            <g id="logolink_meetup" transform="translate(657.000000, 61.000000)">
+                <path d="M1,11.25 C0.448,11.25 0,10.802 0,10.25 L0,1.744 C0.004,1.194 0.45,0.75 1,0.75 L15,0.75 C15.55,0.75 15.996,1.195 16,1.744 L16,10.25 C16,10.802 15.552,11.25 15,11.25 L1,11.25 L1,11.25 Z M15.507,3.733 L0.507,3.733 L0.507,9.733 L15.507,9.733 L15.507,3.733 L15.507,3.733 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

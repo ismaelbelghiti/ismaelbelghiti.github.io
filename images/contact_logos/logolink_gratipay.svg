@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>logolink_gratipay</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-460.000000, -59.000000)" fill="#112E48">
+            <g id="logolink_gratipay" transform="translate(460.000000, 59.000000)">
+                <path d="M16,8 C16,12.42 12.42,16 8,16 C3.582,16 0,12.418 0,8 C0,3.582 3.582,0 8,0 C12.42,0 16,3.58 16,8 L16,8 Z M11.254,4.985 C10.354,4.391 9.498,4.841 9.05,5.362 C8.882,5.556 8.596,5.785 8.055,5.785 C7.515,5.785 7.228,5.555 7.061,5.362 C6.614,4.842 5.759,4.392 4.858,4.985 C3.801,5.682 4.108,6.942 4.418,7.305 L8.056,12.233 L11.696,7.305 C12.004,6.942 12.311,5.682 11.256,4.985 L11.254,4.985 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
