@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.35152430.chunk.css",
-    "main.js": "/static/js/main.2db1ad9e.chunk.js",
+    "main.js": "/static/js/main.7855ecee.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.7d31b362.js",
     "static/css/2.a7279fd1.chunk.css": "/static/css/2.a7279fd1.chunk.css",
-    "static/js/2.b0ca1137.chunk.js": "/static/js/2.b0ca1137.chunk.js",
+    "static/js/2.8c07bbcd.chunk.js": "/static/js/2.8c07bbcd.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.d329c30199adf4b0c7f0e893bd8b154b.js": "/precache-manifest.d329c30199adf4b0c7f0e893bd8b154b.js",
+    "precache-manifest.e61ec121c8ed837619230fb1c855e27b.js": "/precache-manifest.e61ec121c8ed837619230fb1c855e27b.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.b0ca1137.chunk.js.LICENSE.txt": "/static/js/2.b0ca1137.chunk.js.LICENSE.txt",
+    "static/js/2.8c07bbcd.chunk.js.LICENSE.txt": "/static/js/2.8c07bbcd.chunk.js.LICENSE.txt",
     "static/media/semantic.less": "/static/media/outline-icons.ef60a4f6.woff",
     "static/media/remixicon.css": "/static/media/remixicon.9915fef9.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.7d31b362.js",
     "static/css/2.a7279fd1.chunk.css",
-    "static/js/2.b0ca1137.chunk.js",
+    "static/js/2.8c07bbcd.chunk.js",
     "static/css/main.35152430.chunk.css",
-    "static/js/main.2db1ad9e.chunk.js"
+    "static/js/main.7855ecee.chunk.js"
   ]
 }
